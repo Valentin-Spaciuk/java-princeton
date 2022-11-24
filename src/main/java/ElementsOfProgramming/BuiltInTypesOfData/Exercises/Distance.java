@@ -51,8 +51,6 @@ public class Distance {
 
         // output distance
         System.out.println("distance from (" + x + ", " + y + ") to (0, 0) = " + dist);
-
-        System.out.println("Try it");
     }
 }
 
